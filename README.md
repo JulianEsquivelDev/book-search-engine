@@ -2,6 +2,8 @@
 
 ## About the application
 
+An application that allows users to save books to the back-end using the MERN stack.
+
 ## User Story
 
 AS AN avid reader
